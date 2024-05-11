@@ -1,0 +1,11 @@
+{
+  "name": "jsQR",
+  "uidString": "jsQR_https://cdn.jsdelivr.net/npm/jsqr@1.0.0/dist/jsQR.js",
+  "accessor": [
+    "jsQR"
+  ],
+  "url": "https://cdn.jsdelivr.net/npm/jsqr@1.0.0/dist/jsQR.js",
+  "version": "1.0.0",
+  "defs": "{\"!name\":\"LIB/jsQR\",\"jsQR\":{\"!type\":\"fn()\",\"prototype\":{}}}",
+  "deleted": false
+}
